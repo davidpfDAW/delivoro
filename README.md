@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+
+DESARROLLO FECHAS
+
+17/09/2024 => Creacion proyecto pero no subido a ningún repositorio, configuración a medias del app.routes
+
+18/09/2024 => Configuración a medias del partners.routes y carga del mismo en el app.routes y subida del proyecto al repositorio. COMMIT: Routes iniciales
